@@ -1,6 +1,6 @@
 # Escasez y Resiliencia — Código y Cuadernos
 
-Repositorio de código companion al paper publicado en SSRN:
+Repositorio de código  y el paper publicado en SSRN:
 
 > **Vilar, J.A. (2026). *Escasez y Resiliencia: Un Marco Matemático para Invertir en la Era de la Autorreplicación Artificial.* SSRN Working Paper.**
 > 📄 [Leer el paper en SSRN](https://papers.ssrn.com/) ← *(DOI pendiente de confirmación)*
