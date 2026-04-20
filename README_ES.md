@@ -7,7 +7,7 @@
 Repositorio companion del paper publicado en SSRN:
 
 > **Vilar, J.A. (2026). *Escasez y Resiliencia: Un Marco Matemático para Invertir en la Era de la Autorreplicación Artificial.* SSRN Working Paper.**
-> 📄 [Leer el paper en SSRN](https://papers.ssrn.com/) ← *(DOI pendiente de confirmación)*
+> 📄 [Leer el paper en SSRN](https://ssrn.com/abstract=6446598)
 
 ---
 
@@ -41,7 +41,7 @@ escasez-resilencia-public/
 │   └── backtest.py        ← backtesting train/test con datos propios
 ├── figuras/               ← outputs generados por los scripts
 ├── README.md              ← versión en inglés (por defecto)
-└── README.es.md           ← este fichero (español)
+└── README_ES.md           ← este fichero (español)
 ```
 
 ---
@@ -125,7 +125,8 @@ El paper describe una cartera construida sobre cuatro pilares de escasez:
                  en la Era de la Autorreplicación Artificial},
   year        = {2026},
   institution = {SSRN},
-  note        = {Working Paper}
+  note        = {Working Paper. SSRN Abstract 6446598},
+  url         = {https://ssrn.com/abstract=6446598}
 }
 ```
 
